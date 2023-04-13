@@ -1,3 +1,7 @@
 {
 This is git basic class....!
 }
+{
+learned about git basic commands.
+}
+
